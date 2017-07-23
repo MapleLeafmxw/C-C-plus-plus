@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//作业名称：以C++方式实现链表
 
 #pragma once
 typedef int DataType;
